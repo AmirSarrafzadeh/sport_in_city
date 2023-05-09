@@ -1,0 +1,32 @@
+INFO   2023-05-09 16:01:04,745   All setting of the logging is done
+INFO   2023-05-09 16:01:04,746   All paths are defined
+INFO   2023-05-09 16:01:11,177   The authorization code is 
+INFO   2023-05-09 16:01:12,958   127.0.0.1 - - [09/May/2023 16:01:12] "GET /check HTTP/1.1" 200 -
+INFO   2023-05-09 16:03:28,302   All setting of the logging is done
+INFO   2023-05-09 16:03:28,303   All paths are defined
+INFO   2023-05-09 16:04:01,839   The authorization code is 
+INFO   2023-05-09 16:04:01,907   127.0.0.1 - - [09/May/2023 16:04:01] "[35m[1mGET /check HTTP/1.1[0m" 500 -
+INFO   2023-05-09 16:04:01,930   All setting of the logging is done
+INFO   2023-05-09 16:04:01,931   All paths are defined
+INFO   2023-05-09 16:04:10,031   The authorization code is 
+INFO   2023-05-09 16:04:13,485   127.0.0.1 - - [09/May/2023 16:04:13] "GET /check HTTP/1.1" 200 -
+INFO   2023-05-09 17:57:15,115   All setting of the logging is done
+INFO   2023-05-09 17:57:15,130   All paths are defined
+INFO   2023-05-09 17:57:19,105   127.0.0.1 - - [09/May/2023 17:57:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO   2023-05-09 17:57:37,921   All setting of the logging is done
+INFO   2023-05-09 17:57:37,944   All paths are defined
+INFO   2023-05-09 17:58:03,426   The authorization code is 
+INFO   2023-05-09 17:58:06,085   127.0.0.1 - - [09/May/2023 17:58:06] "GET /check HTTP/1.1" 200 -
+INFO   2023-05-09 18:09:10,466    * Detected change in 'C:\\Users\\Administrator\\Desktop\\GIS_Hackathon\\Script\\Authorization\\config.py', reloading
+INFO   2023-05-09 18:21:35,747   All setting of the logging is done
+INFO   2023-05-09 18:21:35,757   All paths are defined
+INFO   2023-05-09 18:22:08,361   The authorization code is 
+INFO   2023-05-09 18:22:11,321   127.0.0.1 - - [09/May/2023 18:22:11] "POST /check HTTP/1.1" 200 -
+INFO   2023-05-09 18:29:01,938   All setting of the logging is done
+INFO   2023-05-09 18:29:01,940   All paths are defined
+INFO   2023-05-09 18:29:01,941   The authorization code is 
+INFO   2023-05-09 18:29:04,162   127.0.0.1 - - [09/May/2023 18:29:04] "POST /check HTTP/1.1" 200 -
+INFO   2023-05-09 18:29:37,523   All setting of the logging is done
+INFO   2023-05-09 18:29:37,524   All paths are defined
+INFO   2023-05-09 18:29:37,524   The authorization code is 
+INFO   2023-05-09 18:29:39,283   127.0.0.1 - - [09/May/2023 18:29:39] "POST /check HTTP/1.1" 200 -
